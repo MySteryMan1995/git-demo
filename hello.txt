@@ -16,3 +16,4 @@ hello git! hello atguigu!master test
 hello git! hello atguigu!hot-fix test
 hello git! hello atguigu!
 123456789
+使用ssh免密登陆
